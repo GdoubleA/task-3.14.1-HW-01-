@@ -1,4 +1,5 @@
- # **git add**
+[![back](/img/logo%402x.png)](./readme.md) 
+# **git add**
 
 ![git.add](/img/git%20add.svg)
 
@@ -10,3 +11,5 @@
 ```
 git add .
 ```
+---
+[![back](/img/left-arrow-back-svgrepo-com.svg)](./readme.md)

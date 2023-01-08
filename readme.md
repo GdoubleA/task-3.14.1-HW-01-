@@ -13,25 +13,28 @@
 
 ---
 ### Команды GIT:
-1. [git init](./init.md)
-2. [git add .](./add.md)
-3. [git commit](./commit.md)
+1. [git config](./config.md)
+2. [git init](./init.md)
+3. [git add .](./add.md)
+4. [git commit](./commit.md)
     - [git commit -a](./commit-a.md)
     - [git commit -m "commit message"](./commit-m.md)
     - [git commit -am "commit message"](./commit-am.md) 
     - [git commit --amend](./commit--amend.md)
-4. []()
-5. []()
-6. []()
-7. []()
-8. []()
-9. []()
-10. []()
-11. []()
-12. []()
-13. []() 
-
+5. [git clone](./clone.md)
+6. [git remote](./remote.md)
+7. [git fetch](./fetch.md)
+8. [git merge](./merge.md)
+9. [git pull](./pull.md)
+10. [git push](./push.md)
+11. [git status](./status.md)
+12. [git log](./log.md)
+13. [git show](./show.md)
 
 
 ---
- GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+
+
+

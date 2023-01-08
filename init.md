@@ -1,3 +1,4 @@
+[![back](/img/logo%402x.png)](./readme.md)
 # Инициализация нового репозитория: **git init**
 
 ![init](/img/init.svg)
@@ -7,3 +8,5 @@
 ```
 git init
 ```
+---
+[![back](/img/left-arrow-back-svgrepo-com.svg)](./readme.md)
