@@ -1,4 +1,4 @@
-[![back](/img/logo%402x.png)](./readme.md)
+[![back](/img/git-svgrepo-com.svg)](./readme.md) 
 # **git config**
 
 ![config](/img/init.svg)
